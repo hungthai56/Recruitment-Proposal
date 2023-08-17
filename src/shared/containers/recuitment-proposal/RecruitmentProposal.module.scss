@@ -1,0 +1,10 @@
+.custom-for-filter{
+    display: flex;
+    align-items: center;
+    button {
+        border-radius: 3px 0px 0px 3px;
+    }
+    div {
+        border-radius: 0px 3px 3px 0px;
+    }
+}
